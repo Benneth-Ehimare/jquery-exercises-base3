@@ -23,6 +23,7 @@ Créer un bouton et un champ texte. Le but est de trouver un nombre entre 0 et 1
 **Bonus** : Quand la réponse est trouvée, on obtient le nombre d'essai que l'on a fait.
 
 ## Exercice 5
-Construire  un carré en html/css. Et faire en sorte que : 
-_ lorsque l'on appuie sur une touche de direction(**<-** **->**) le carré se déplace de 10 px dans la bonne direction.  
+Construire  un carré en html/css. Et faire en sorte que :
+ 
+- lorsque l'on appuie sur une touche de direction(**<-** **->**) le carré se déplace de 10 px dans la bonne direction.  
 - lorsque le bloc atteint un bord de la page, il réaparaisse de l'autre côté.
