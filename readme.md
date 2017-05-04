@@ -25,5 +25,5 @@ Créer un bouton et un champ texte. Le but est de trouver un nombre entre 0 et 1
 ## Exercice 5
 Construire  un carré en html/css. Et faire en sorte que :
  
-- lorsque l'on appuie sur une touche de direction(**<-** **->**) le carré se déplace de 10 px dans la bonne direction.  
+- lorsque l'on appuie sur une touche de direction(haut, bas, gauche, droite) le carré se déplace de 10 px dans la bonne direction.  
 - lorsque le bloc atteint un bord de la page, il réaparaisse de l'autre côté.
